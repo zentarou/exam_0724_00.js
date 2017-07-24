@@ -1,0 +1,14 @@
+/* here is a comment*/
+body {
+    background-color: #34D058
+}
+
+#box {
+    width: 30px;
+    height: 120px;
+    background-color: #FF0000;
+    margin: 50px;
+    padding: 150px;
+    border: 50px; color: #000000;
+    border-radius: 200px;
+}

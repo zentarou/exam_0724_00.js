@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ポーカー</title>
+    <script src="poker.js"></script>
+    <link rel="stylesheet" type="text/css" href="poker.css">
+</head>
+<body>
+    <div id="info">
+        <div>コイン: <span id="coins"></span>枚</div>
+        <div>何枚掛けますか？: <select id="bet"></select>枚</div>
+        <div><button id="play">ゲームを始める</button></div>
+    </div>
+
+    <div id="poker_table">
+        <div>交換するカードをクリックしてください</div>
+        <div id="player_cards"></div>
+        <button id="trade">交換する</button>
+        <div id="result"></div>
+        <button id="continue">次のゲームへ</button>
+    </div>
+</body>
+</html>

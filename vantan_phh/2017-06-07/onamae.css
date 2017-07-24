@@ -1,0 +1,20 @@
+body {
+    color: #ff0000;
+}
+
+div {
+    font-size: 800%;
+}
+
+#name {
+    font-size: 400;
+    font-weight: 800;
+    color: red;
+    margin: 100px;
+    padding: 50px;
+    background-color: #00f;
+}
+
+div {
+    color: blue;
+}

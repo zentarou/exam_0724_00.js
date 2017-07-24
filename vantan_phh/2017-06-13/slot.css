@@ -1,0 +1,6 @@
+#slot1, #slot2, #slot3 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid blue;
+}
